@@ -3,10 +3,10 @@
 		"id": 1,
 		"name": "BP",
 		"address": "RYBNICKA 31",
-		"LPG": "3.2",
-		"PB95": "6.3",
-		"PB98": "6.8",
-		"ON": "7.02",
+		"LPG": "2.41",
+		"PB95": "6.57",
+		"PB98": "6.75",
+		"ON": "7.21",
 		"icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
 		"geo": "50.28320237351197, 18.663372454611217"
 	}, {
