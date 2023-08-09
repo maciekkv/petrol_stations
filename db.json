@@ -1,223 +1,227 @@
 {
-	"Gliwice": [{
-		"id": 1,
-		"name": "BP",
-		"address": "RYBNICKA 31",
-		"LPG": "2.41",
-		"PB95": "6.57",
-		"PB98": "6.75",
-		"ON": "7.21",
-		"icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
-		"geo": "50.28320237351197, 18.663372454611217"
-	}, {
-		"id": 2,
-		"name": "ORLEN",
-		"address": "PSZCZY\u0143SKA 52",
-		"LPG": "3.22",
-		"PB95": "6.28",
-		"PB98": "6.38",
-		"ON": "7.04",
-		"icon": "https://play-lh.googleusercontent.com/mAMlUyKKDFJOvNktpR4iUKbKpFnriBzcUk_O2DWwG0m2yIRXczpzOryAp_CocCyvfj8s",
-		"geo": "50.28701587657711, 18.672802131331053"
-	}, {
-		"id": 3,
-		"name": "ORLEN",
-		"address": "TOSZECKA 8",
-		"LPG": "3.25",
-		"PB95": "6.39",
-		"PB98": "6.81",
-		"ON": "7.12",
-		"icon": "https://play-lh.googleusercontent.com/mAMlUyKKDFJOvNktpR4iUKbKpFnriBzcUk_O2DWwG0m2yIRXczpzOryAp_CocCyvfj8s",
-		"geo": "50.30450942868526, 18.673290452760522"
-	}, {
-		"id": 4,
-		"name": "BP",
-		"address": "RYBNICKA 150",
-		"LPG": "3.12",
-		"PB95": "6.31",
-		"PB98": "6.79",
-		"ON": "7.14",
-		"icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
-		"geo": "50.275322666716505, 18.661012414134643"
-	}, {
-		"id": 5,
-		"name": "SHELL",
-		"address": "RYBNICKA 159",
-		"LPG": "3.22",
-		"PB95": "6.34",
-		"PB98": "6.85",
-		"ON": "7.53",
-		"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/1200px-Shell_logo.svg.png",
-		"geo": "50.27314627110448, 18.661721196938682"
-	}, {
-		"id": 6,
-		"name": "ORLEN",
-		"address": "KOZIELSKA 128",
-		"LPG": "3.29",
-		"PB95": "6.25",
-		"PB98": "6.83",
-		"ON": "7.02",
-		"icon": "https://play-lh.googleusercontent.com/mAMlUyKKDFJOvNktpR4iUKbKpFnriBzcUk_O2DWwG0m2yIRXczpzOryAp_CocCyvfj8s",
-		"geo": "50.305484847170064, 18.631798758316318"
-	}, {
-		"id": 7,
-		"name": "CARREFOUR",
-		"address": "ALEJA JANA NOWAKA-JEZIORA\u0143SKIEGO 1",
-		"LPG": "3.2",
-		"PB95": "6.3",
-		"PB98": "6.8",
-		"ON": "7.02",
-		"icon": "https://cdn.iconscout.com/icon/free/png-256/free-carrefour-283188.png",
-		"geo": "50.30876076787524, 18.646986757434174"
-	}, {
-		"id": 8,
-		"name": "E.LECLERC",
-		"address": "TOSZECKA 7A",
-		"LPG": "3.21",
-		"PB95": "6.33",
-		"PB98": "6.84",
-		"ON": "7.12",
-		"icon": "https://pliki.portalspozywczy.pl/i/03/10/03/031003_940.jpg",
-		"geo": "50.27627003481787, 18.660414922599372"
-	}, {
-		"id": 9,
-		"name": "CIRCLE K EXPRESS",
-		"address": "RYBNICKA 148",
-		"LPG": "3.41",
-		"PB95": "6.32",
-		"PB98": "6.83",
-		"ON": "7.24",
-		"icon": "https://resources.mynewsdesk.com/image/upload/c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_746/c5cgfsqfmlwi6kdiwxxh",
-		"geo": "50.30447141810523, 18.673374157787453"
-	}, {
-		"id": 10,
-		"name": "SHELL",
-		"address": "TARNOG\u00d3RSKA 163",
-		"LPG": "3.52",
-		"PB95": "6.31",
-		"PB98": "6.78",
-		"ON": "7.01",
-		"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/1200px-Shell_logo.svg.png",
-		"geo": "50.3157234677007, 18.69354400011606"
-	}, {
-		"id": 11,
-		"name": "BP",
-		"address": "TARNOG\u00d3RSKA 188",
-		"LPG": "3.00",
-		"PB95": "6.34",
-		"PB98": "6.89",
-		"ON": "7.10",
-		"icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
-		"geo": "50.31727057456511, 18.696716085301063"
-	}, {
-		"id": 12,
-		"name": "ORLEN",
-		"address": "PSZCZY\u0143SKA 318",
-		"LPG": "3.23",
-		"PB95": "6.33",
-		"PB98": "6.53",
-		"ON": "7.67",
-		"icon": "https://play-lh.googleusercontent.com/mAMlUyKKDFJOvNktpR4iUKbKpFnriBzcUk_O2DWwG0m2yIRXczpzOryAp_CocCyvfj8s",
-		"geo": "50.26648570531851, 18.712980103547665"
-	}, {
-		"id": 13,
-		"name": "MOYA",
-		"address": "\u0141AB\u0118DZKA 26",
-		"LPG": "3.00",
-		"PB95": "6.15",
-		"PB98": "6.87",
-		"ON": "7.42",
-		"icon": "https://glowny-mechanik.pl/wp-content/uploads/Moya-firma.jpg",
-		"geo": "50.31060609834973, 18.629159936605753"
-	}, {
-		"id": 14,
-		"name": "AMIC ENERGY",
-		"address": "PSZCZY\u0143SKA 100A",
-		"LPG": "3.27",
-		"PB95": "6.32",
-		"PB98": "6.81",
-		"ON": "7.77",
-		"icon": "https://www.it-man.pl/wp-content/uploads/2022/04/amic_energy_logo.jpg",
-		"geo": "50.28418024885756, 18.678901239267358"
-	}, {
-		"id": 15,
-		"name": "CIRCLE K EXPRESS",
-		"address": "TARNOG\u00d3RSKA 19A",
-		"LPG": "2.99",
-		"PB95": "6.53",
-		"PB98": "6.81",
-		"ON": "7.01",
-		"icon": "https://resources.mynewsdesk.com/image/upload/c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_746/c5cgfsqfmlwi6kdiwxxh",
-		"geo": "50.30429729825997, 18.680648807266774"
-	}, {
-		"id": 16,
-		"name": "AUCHAN",
-		"address": "RYBNICKA 207",
-		"LPG": "3.12",
-		"PB95": "6.42",
-		"PB98": "6.11",
-		"ON": "7.14",
-		"icon": "https://logos-world.net/wp-content/uploads/2021/02/Auchan-Logo.png",
-		"geo": "50.25563304898315, 18.653922913225987"
-	}, {
-		"id": 17,
-		"name": "ORLEN",
-		"address": "SIKORSKIEGO 115",
-		"LPG": "3.2",
-		"PB95": "6.31",
-		"PB98": "6.28",
-		"ON": "7.22",
-		"icon": "https://play-lh.googleusercontent.com/mAMlUyKKDFJOvNktpR4iUKbKpFnriBzcUk_O2DWwG0m2yIRXczpzOryAp_CocCyvfj8s",
-		"geo": "50.29151742909708, 18.747701704881425"
-	}, {
-		"id": 18,
-		"name": "PKS \u017bARY",
-		"address": "TOSZECKA 11",
-		"LPG": "3.23",
-		"PB95": "6.77",
-		"PB98": "6.12",
-		"ON": "7.02",
-		"icon": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_PKS_Zary.png",
-		"geo": "50.304845842988435, 18.672245914136273"
-	}, {
-		"id": 19,
-		"name": "BP",
-		"address": "D\u0104BROWSKIEGO 18",
-		"LPG": "3.42",
-		"PB95": "6.31",
-		"PB98": "6.25",
-		"ON": "7.55",
-		"icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
-		"geo": "50.29884726641002, 18.688930470494313"
-	}, {
-		"id": 20,
-		"name": "BP",
-		"address": "\u0141AB\u0118DZKA 44",
-		"LPG": "3.15",
-		"PB95": "6.55",
-		"PB98": "6.77",
-		"ON": "7.05",
-		"icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
-		"geo": "50.31470555864321, 18.623637289668853"
-	}, {
-		"id": 21,
-		"name": "BP",
-		"address": "OKRE\u017bNA 32",
-		"LPG": "3.44",
-		"PB95": "6.22",
-		"PB98": "6.89",
-		"ON": "7.10",
-		"icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
-		"geo": "50.26680194098863, 18.711313193601562"
-	}, {
-		"id": 22,
-		"name": "SHELL",
-		"address": "TOSZECKA 135",
-		"LPG": "3.23",
-		"PB95": "6.31",
-		"PB98": "6.84",
-		"ON": "7.13",
-		"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/1200px-Shell_logo.svg.png",
-		"geo": "50.324489786298294, 18.661393793782725"
-	}]
+    "cities":
+    {
+        "Gliwice": [{
+            "id": 1,
+            "name": "BP",
+            "address": "RYBNICKA 31",
+            "LPG": "2.41",
+            "PB95": "6.57",
+            "PB98": "6.75",
+            "ON": "7.21",
+            "icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
+            "geo": "50.28320237351197, 18.663372454611217"
+        }, {
+            "id": 2,
+            "name": "ORLEN",
+            "address": "PSZCZY\u0143SKA 52",
+            "LPG": "3.22",
+            "PB95": "6.28",
+            "PB98": "6.38",
+            "ON": "7.04",
+            "icon": "https://play-lh.googleusercontent.com/mAMlUyKKDFJOvNktpR4iUKbKpFnriBzcUk_O2DWwG0m2yIRXczpzOryAp_CocCyvfj8s",
+            "geo": "50.28701587657711, 18.672802131331053"
+        }, {
+            "id": 3,
+            "name": "ORLEN",
+            "address": "TOSZECKA 8",
+            "LPG": "3.25",
+            "PB95": "6.39",
+            "PB98": "6.81",
+            "ON": "7.12",
+            "icon": "https://play-lh.googleusercontent.com/mAMlUyKKDFJOvNktpR4iUKbKpFnriBzcUk_O2DWwG0m2yIRXczpzOryAp_CocCyvfj8s",
+            "geo": "50.30450942868526, 18.673290452760522"
+        }, {
+            "id": 4,
+            "name": "BP",
+            "address": "RYBNICKA 150",
+            "LPG": "3.12",
+            "PB95": "6.31",
+            "PB98": "6.79",
+            "ON": "7.14",
+            "icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
+            "geo": "50.275322666716505, 18.661012414134643"
+        }, {
+            "id": 5,
+            "name": "SHELL",
+            "address": "RYBNICKA 159",
+            "LPG": "3.22",
+            "PB95": "6.34",
+            "PB98": "6.85",
+            "ON": "7.53",
+            "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/1200px-Shell_logo.svg.png",
+            "geo": "50.27314627110448, 18.661721196938682"
+        }, {
+            "id": 6,
+            "name": "ORLEN",
+            "address": "KOZIELSKA 128",
+            "LPG": "3.29",
+            "PB95": "6.25",
+            "PB98": "6.83",
+            "ON": "7.02",
+            "icon": "https://play-lh.googleusercontent.com/mAMlUyKKDFJOvNktpR4iUKbKpFnriBzcUk_O2DWwG0m2yIRXczpzOryAp_CocCyvfj8s",
+            "geo": "50.305484847170064, 18.631798758316318"
+        }, {
+            "id": 7,
+            "name": "CARREFOUR",
+            "address": "ALEJA JANA NOWAKA-JEZIORA\u0143SKIEGO 1",
+            "LPG": "3.2",
+            "PB95": "6.3",
+            "PB98": "6.8",
+            "ON": "7.02",
+            "icon": "https://cdn.iconscout.com/icon/free/png-256/free-carrefour-283188.png",
+            "geo": "50.30876076787524, 18.646986757434174"
+        }, {
+            "id": 8,
+            "name": "E.LECLERC",
+            "address": "TOSZECKA 7A",
+            "LPG": "3.21",
+            "PB95": "6.33",
+            "PB98": "6.84",
+            "ON": "7.12",
+            "icon": "https://pliki.portalspozywczy.pl/i/03/10/03/031003_940.jpg",
+            "geo": "50.27627003481787, 18.660414922599372"
+        }, {
+            "id": 9,
+            "name": "CIRCLE K EXPRESS",
+            "address": "RYBNICKA 148",
+            "LPG": "3.41",
+            "PB95": "6.32",
+            "PB98": "6.83",
+            "ON": "7.24",
+            "icon": "https://resources.mynewsdesk.com/image/upload/c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_746/c5cgfsqfmlwi6kdiwxxh",
+            "geo": "50.30447141810523, 18.673374157787453"
+        }, {
+            "id": 10,
+            "name": "SHELL",
+            "address": "TARNOG\u00d3RSKA 163",
+            "LPG": "3.52",
+            "PB95": "6.31",
+            "PB98": "6.78",
+            "ON": "7.01",
+            "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/1200px-Shell_logo.svg.png",
+            "geo": "50.3157234677007, 18.69354400011606"
+        }, {
+            "id": 11,
+            "name": "BP",
+            "address": "TARNOG\u00d3RSKA 188",
+            "LPG": "3.00",
+            "PB95": "6.34",
+            "PB98": "6.89",
+            "ON": "7.10",
+            "icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
+            "geo": "50.31727057456511, 18.696716085301063"
+        }, {
+            "id": 12,
+            "name": "ORLEN",
+            "address": "PSZCZY\u0143SKA 318",
+            "LPG": "3.23",
+            "PB95": "6.33",
+            "PB98": "6.53",
+            "ON": "7.67",
+            "icon": "https://play-lh.googleusercontent.com/mAMlUyKKDFJOvNktpR4iUKbKpFnriBzcUk_O2DWwG0m2yIRXczpzOryAp_CocCyvfj8s",
+            "geo": "50.26648570531851, 18.712980103547665"
+        }, {
+            "id": 13,
+            "name": "MOYA",
+            "address": "\u0141AB\u0118DZKA 26",
+            "LPG": "3.00",
+            "PB95": "6.15",
+            "PB98": "6.87",
+            "ON": "7.42",
+            "icon": "https://glowny-mechanik.pl/wp-content/uploads/Moya-firma.jpg",
+            "geo": "50.31060609834973, 18.629159936605753"
+        }, {
+            "id": 14,
+            "name": "AMIC ENERGY",
+            "address": "PSZCZY\u0143SKA 100A",
+            "LPG": "3.27",
+            "PB95": "6.32",
+            "PB98": "6.81",
+            "ON": "7.77",
+            "icon": "https://www.it-man.pl/wp-content/uploads/2022/04/amic_energy_logo.jpg",
+            "geo": "50.28418024885756, 18.678901239267358"
+        }, {
+            "id": 15,
+            "name": "CIRCLE K EXPRESS",
+            "address": "TARNOG\u00d3RSKA 19A",
+            "LPG": "2.99",
+            "PB95": "6.53",
+            "PB98": "6.81",
+            "ON": "7.01",
+            "icon": "https://resources.mynewsdesk.com/image/upload/c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_746/c5cgfsqfmlwi6kdiwxxh",
+            "geo": "50.30429729825997, 18.680648807266774"
+        }, {
+            "id": 16,
+            "name": "AUCHAN",
+            "address": "RYBNICKA 207",
+            "LPG": "3.12",
+            "PB95": "6.42",
+            "PB98": "6.11",
+            "ON": "7.14",
+            "icon": "https://logos-world.net/wp-content/uploads/2021/02/Auchan-Logo.png",
+            "geo": "50.25563304898315, 18.653922913225987"
+        }, {
+            "id": 17,
+            "name": "ORLEN",
+            "address": "SIKORSKIEGO 115",
+            "LPG": "3.2",
+            "PB95": "6.31",
+            "PB98": "6.28",
+            "ON": "7.22",
+            "icon": "https://play-lh.googleusercontent.com/mAMlUyKKDFJOvNktpR4iUKbKpFnriBzcUk_O2DWwG0m2yIRXczpzOryAp_CocCyvfj8s",
+            "geo": "50.29151742909708, 18.747701704881425"
+        }, {
+            "id": 18,
+            "name": "PKS \u017bARY",
+            "address": "TOSZECKA 11",
+            "LPG": "3.23",
+            "PB95": "6.77",
+            "PB98": "6.12",
+            "ON": "7.02",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_PKS_Zary.png",
+            "geo": "50.304845842988435, 18.672245914136273"
+        }, {
+            "id": 19,
+            "name": "BP",
+            "address": "D\u0104BROWSKIEGO 18",
+            "LPG": "3.42",
+            "PB95": "6.31",
+            "PB98": "6.25",
+            "ON": "7.55",
+            "icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
+            "geo": "50.29884726641002, 18.688930470494313"
+        }, {
+            "id": 20,
+            "name": "BP",
+            "address": "\u0141AB\u0118DZKA 44",
+            "LPG": "3.15",
+            "PB95": "6.55",
+            "PB98": "6.77",
+            "ON": "7.05",
+            "icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
+            "geo": "50.31470555864321, 18.623637289668853"
+        }, {
+            "id": 21,
+            "name": "BP",
+            "address": "OKRE\u017bNA 32",
+            "LPG": "3.44",
+            "PB95": "6.22",
+            "PB98": "6.89",
+            "ON": "7.10",
+            "icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
+            "geo": "50.26680194098863, 18.711313193601562"
+        }, {
+            "id": 22,
+            "name": "SHELL",
+            "address": "TOSZECKA 135",
+            "LPG": "3.23",
+            "PB95": "6.31",
+            "PB98": "6.84",
+            "ON": "7.13",
+            "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/1200px-Shell_logo.svg.png",
+            "geo": "50.324489786298294, 18.661393793782725"
+        }]
+    }
+	
 }
