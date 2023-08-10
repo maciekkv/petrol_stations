@@ -1,6 +1,4 @@
 {
-    "cities":
-    {
         "Gliwice": [{
             "id": 1,
             "name": "BP",
@@ -222,6 +220,4 @@
             "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/1200px-Shell_logo.svg.png",
             "geo": "50.324489786298294, 18.661393793782725"
         }]
-    }
-	
 }
