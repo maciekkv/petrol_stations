@@ -4,19 +4,19 @@
             "name": "BP",
             "address": "RYBNICKA 31",
             "LPG": "2.22",
-            "PB95": "6.44",
-            "PB98": "6.78",
-            "ON": "8.55",
+            "PB95": "6.66",
+            "PB98": "7.77",
+            "ON": "8.88",
             "icon": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
             "geo": "50.28320237351197, 18.663372454611217"
         }, {
             "id": 2,
             "name": "ORLEN",
             "address": "PSZCZY\u0143SKA 52",
-            "LPG": "2.15",
-            "PB95": "6.25",
-            "PB98": "6.50",
-            "ON": "7.45",
+            "LPG": "2.10",
+            "PB95": "6.10",
+            "PB98": "6.10",
+            "ON": "7.10",
             "icon": "https://play-lh.googleusercontent.com/mAMlUyKKDFJOvNktpR4iUKbKpFnriBzcUk_O2DWwG0m2yIRXczpzOryAp_CocCyvfj8s",
             "geo": "50.28701587657711, 18.672802131331053"
         }, {
